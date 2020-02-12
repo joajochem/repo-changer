@@ -2,8 +2,9 @@
 
 echo "Hello $USER,"
 echo "Welke Repo wil je gebruiken?"
-echo "school---------- = 1"
-echo "niet school ---- = 2"
+
+echo "niet school ---- = 1"
+echo "school---------- = 2"
 echo "exit ----------- = 3"
 
 read choice
