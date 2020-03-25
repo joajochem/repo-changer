@@ -27,8 +27,6 @@ elif [ $choice == $option2 ]; then
     echo "deb http://10.203.216.40/debian stretch main" > "/etc/apt/sources.list"
     apt update
     echo "je kan weer software installeren!"
-else; then
-    cat "/etc/apt/sources.list" > "/etc/apt/sources.list"
 fi
 
 
